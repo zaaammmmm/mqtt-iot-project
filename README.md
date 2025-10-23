@@ -132,12 +132,11 @@ Jika **Auto Mode** dinonaktifkan, kontrol LED dapat dilakukan secara manual lewa
 - Status koneksi MQTT  
 - Tombol kontrol LED dan Auto Mode  
 
-*(Tambahkan screenshot di bagian ini untuk mempercantik README jika diinginkan)*
-
 ---
 
 ## 📜 Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
+
 
