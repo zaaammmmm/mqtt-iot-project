@@ -1,6 +1,6 @@
 # 🌡️ MQTT IoT Project – ESP32 + DHT11 + Python Desktop App
 
-Proyek ini merupakan implementasi Internet of Things (IoT) menggunakan **ESP32**, **sensor DHT11**, dan **komunikasi MQTT** dengan **aplikasi desktop berbasis Python**.  
+Proyek ini merupakan implementasi Internet of Things (IoT) menggunakan **ESP32**, **sensor DHT11**, dan **komunikasi MQTT** dengan **aplikasi desktop berbasis Python**.
 Dibuat sebagai bagian dari mata kuliah **Pemrograman Platform Desktop dan Embedded (PPDE)** oleh **Ahmad Zamroni Trikarta**.
 
 ---

@@ -3,8 +3,8 @@
 #include <DHT.h>
 
 // ===== WiFi & MQTT Config =====
-const char* ssid = "Redmi 12";
-const char* password = "myukiarunika";
+const char* ssid = "";
+const char* password = "";
 
 const char* mqtt_server = "test.mosquitto.org";
 const char* clientId = "esp-sensor-suhu-3";

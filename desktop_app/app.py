@@ -20,8 +20,8 @@ TOPIC_HUM  = "sensor/esp32/3/humidity"
 TOPIC_LED  = "sensor/esp32/3/led_control"
 CLIENT_ID  = "desktop-monitor-ahmad"
 
-NAMA = "Bintang Wishnu Pradana"
-NIM  = "23106050064"
+NAMA = "Ahmad Zamroni Trikarta"
+NIM  = "23106050017"
 KELOMPOK = "Kelompok 3"
 
 MAX_POINTS = 100  # max history
