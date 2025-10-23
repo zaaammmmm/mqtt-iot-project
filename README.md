@@ -141,8 +141,3 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
-## 👤 Pengembang
-**Nama:** Ahmad Zamroni Trikarta  
-**NIM:** 23106050017  
-**Mata Kuliah:** Pemrograman Platform Desktop dan Embedded (PPDE)  
-**Universitas:** UIN Maulana Malik Ibrahim Malang
